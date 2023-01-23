@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/iamjeevan9" target="blank"><img src="https://img.shields.io/twitter/follow/iamjeevan9?logo=twitter&style=for-the-badge" alt="iamjeevan9" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, Udemy**
 
 - 💬 Ask me about ** HTML, CSS, Bootstrap, JavaScript, ReactJS, SQL Database **
 
