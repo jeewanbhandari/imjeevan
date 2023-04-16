@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/iamjeevan9" target="blank"><img src="https://img.shields.io/twitter/follow/iamjeevan9?logo=twitter&style=for-the-badge" alt="iamjeevan9" /></a> </p>
 
 
-- 💬 Ask me about HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, ReactJS, NodeJS, SQL, NoSQL, Laravel.
+- 💬 Ask me about HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, ReactJS, NodeJS, SQL, NoSQL, Laravel, Docker, Microsoft Azure, AWS.
 
 - 📫 How to reach me **jeevanbhandari248@gmail.com**
 
