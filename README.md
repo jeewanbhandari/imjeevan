@@ -20,4 +20,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h4> ASP.NET Core, ASP.NET MVC, RESTful APIs, C#, JS, NodeJS, Laravel, ReactJS, AngularJS, SQL, NoSQL, Docker, Azure, AWS</h4>
+<h4> ASP.NET Core, ASP.NET MVC, RESTful APIs, C#, JS, NodeJS, Laravel, ReactJS, AngularJS, SQL, NoSQL, Git, Docker, Azure, AWS.</h4>
