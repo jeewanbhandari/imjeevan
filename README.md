@@ -6,10 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imjeevan&label=Profile%20views&color=0e75b6&style=flat" alt="imjeevan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iamjeevan9" target="blank"><img src="https://img.shields.io/twitter/follow/iamjeevan9?logo=twitter&style=for-the-badge" alt="iamjeevan9" /></a> </p>
-
-
-- 💬 Ask me about ASP.NET Core, ASP.NET MVC, C#, Bootstrap, JavaScript, ReactJS, NodeJS, SQL, NoSQL, Laravel, Docker, Azure, AWS, GCP.
+<p align="left"> <a href="https://twitter.com/i_m_jeevan" target="blank"><img src="https://img.shields.io/twitter/follow/iamjeevan9?logo=twitter&style=for-the-badge" alt="iamjeevan9" /></a> </p>
 
 - 📫 How to reach me **jeewonbh@gmail.com**
 
@@ -23,4 +20,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h4> ASP.NET Core, ASP.NET MVC, RESTful APIs, C#, JS, NodeJS, Laravel, ReactJS, AngularJS, SQL, NoSQL, and many more</h4>
+<h4> ASP.NET Core, ASP.NET MVC, RESTful APIs, C#, JS, NodeJS, Laravel, ReactJS, AngularJS, SQL, NoSQL, Docker, Azure, AWS</h4>
